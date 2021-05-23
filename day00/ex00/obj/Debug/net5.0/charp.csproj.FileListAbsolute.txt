@@ -1,0 +1,15 @@
+/Users/lgarg/charp/bin/Debug/net5.0/charp.deps.json
+/Users/lgarg/charp/bin/Debug/net5.0/charp.runtimeconfig.json
+/Users/lgarg/charp/bin/Debug/net5.0/charp.runtimeconfig.dev.json
+/Users/lgarg/charp/bin/Debug/net5.0/charp.dll
+/Users/lgarg/charp/bin/Debug/net5.0/ref/charp.dll
+/Users/lgarg/charp/bin/Debug/net5.0/charp.pdb
+/Users/lgarg/charp/obj/Debug/net5.0/charp.csprojAssemblyReference.cache
+/Users/lgarg/charp/obj/Debug/net5.0/charp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lgarg/charp/obj/Debug/net5.0/charp.AssemblyInfoInputs.cache
+/Users/lgarg/charp/obj/Debug/net5.0/charp.AssemblyInfo.cs
+/Users/lgarg/charp/obj/Debug/net5.0/charp.csproj.CoreCompileInputs.cache
+/Users/lgarg/charp/obj/Debug/net5.0/charp.dll
+/Users/lgarg/charp/obj/Debug/net5.0/ref/charp.dll
+/Users/lgarg/charp/obj/Debug/net5.0/charp.pdb
+/Users/lgarg/charp/obj/Debug/net5.0/charp.genruntimeconfig.cache
