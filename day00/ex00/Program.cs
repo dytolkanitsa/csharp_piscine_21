@@ -142,7 +142,6 @@ namespace charp
 					if (CreditReminder - OD < 0)
 					{
 						CreditReminder = 0;
-						break ;
 					}
 					else
 						CreditReminder = CreditReminder - OD;
